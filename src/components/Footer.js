@@ -15,7 +15,7 @@ function Footer() {
     <LinkedInIcon />
 
     </div>
-    <p> &copy; 2021 Domino'spizza.com</p>
+    <p> &copy; 2023 Domino'spizza.com</p>
     </div>
   )
 }
